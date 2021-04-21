@@ -1,6 +1,6 @@
 import "./style.css";
 import { useState } from "react";
-import prom from "./promotion.svg";
+import loudspeaker from "./loudspeaker.svg";
 
 export default function Input() {
   const [shout, setShout] = useState("");
@@ -13,7 +13,7 @@ export default function Input() {
     <div>
       <input type="text" onChange={handleShout}></input>
       <div className="shouting">
-        <img src={prom} alt="loudspeaker" />
+        <img src={loudspeaker} alt="loudspeaker" />
         {shout.toUpperCase()}
       </div>
     </div>

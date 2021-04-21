@@ -15,6 +15,7 @@ input {
   margin-top: 3rem;
 }
 
-img {
+.shouting img {
   width: 4rem;
+  margin: 0 10px -10px 0;
 }
