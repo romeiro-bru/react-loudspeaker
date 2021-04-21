@@ -5,13 +5,13 @@ import loudspeaker from "./loudspeaker.svg";
 export default function Input() {
   const [shout, setShout] = useState("");
 
-  const handleShout = (event) => {
+  const handleChange = (event) => {
     setShout(event.target.value);
   };
 
   return (
     <div>
-      <input type="text" onChange={handleShout}></input>
+      <input type="text" onChange={handleChange}></input>
       <div className="shouting">
         <img src={loudspeaker} alt="loudspeaker" />
         {shout.toUpperCase()}
