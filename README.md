@@ -5,8 +5,8 @@
 Day Two / 30 days of React challenge / LoudSpeaker Input
 
 ## Features :unicorn: 
-* It takes the user input
-* Returns the input in upcased text
+* Type something in the input field
+* It returns the text upcased
 
 ## Technologies :mag_right:
 * React :sparkles:
