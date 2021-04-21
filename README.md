@@ -11,3 +11,6 @@ Day Two / 30 days of React challenge / LoudSpeaker Input
 ## Technologies :mag_right:
 * React :sparkles:
 * Css :nail_care:
+
+#
+Challenged based on: https://github.com/graceaveris/React.js_shout_machine
