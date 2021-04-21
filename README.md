@@ -13,4 +13,4 @@
 * Css :nail_care:
 
 #
-Challenged based on: https://github.com/graceaveris/React.js_shout_machine
+Inspired by: @graceaveris
