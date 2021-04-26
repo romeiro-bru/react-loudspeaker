@@ -13,4 +13,4 @@
 * Css :nail_care:
 
 #
-Inspired by: @graceaveris
+Inspired by: “Shout Machine” of [@graceaveris](https://github.com/graceaveris)
